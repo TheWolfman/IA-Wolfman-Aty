@@ -7,5 +7,3 @@ reunion r4 2 c2 c3 c4
 reunion r5 3 c1 c2 c3 c4 c5
 reunion r6 3 c1 c2 c4 c5
 reunion r7 5 c1 c2 c3
-indisponibilité c2 1 3 5
-precede r6 r7

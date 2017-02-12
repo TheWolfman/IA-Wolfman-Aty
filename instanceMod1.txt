@@ -1,0 +1,6 @@
+jours 1
+plages 8
+reunion r1 2 c1 c3 c4
+reunion r2 3 c2 c4 c5
+reunion r3 1 c1 c3 c5
+reunion r4 2 c2 c3 c4
